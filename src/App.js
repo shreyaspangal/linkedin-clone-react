@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="app">
       <Header />
-      <div class="app__body">
+      <div className="app__body">
         <Sidebar />
         <Feed />
         <Widgets />
